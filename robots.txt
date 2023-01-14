@@ -3,4 +3,4 @@ Disallow: /cgi-bin/
 Disallow: /assets/images/
 Disallow: /pages/thankyou.html
 
-Sitemap: website.com/sitemap.xml
+Sitemap: tron-srl.com/sitemap.xml
